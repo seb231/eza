@@ -6,5 +6,5 @@ A short script to deploy to AWS to monitor the total number of patrons and Patre
 2. Store and append results somewhere
 3. Deliver results somehow (email?)
 4. Better name
-5. Record views and likes of videos
+5. Record views (need to add notebook code to script) and likes of videos
 6. Do something with video duration?
